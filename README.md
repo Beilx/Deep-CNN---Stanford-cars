@@ -140,7 +140,7 @@ CNN: GoogLeNet - Dataset split: (90:9:1) - learning rate: 0.001 – epoch: 200 -
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.006.png)
 
-*Figure  SEQ Figure \\* ARABIC 3 CNN: GoogLeNet - Dataset split: (90:9:1) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  3 CNN: GoogLeNet - Dataset split: (90:9:1) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 Figure 18 shows the accuracy increasing significantly to 72.5%. This outperforms all other models conducted so far.
 ## ***Experiment 13***
@@ -225,65 +225,65 @@ However, infinitely adding hidden layers will not improve the network and a deep
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.010.png)
 
-*Figure  SEQ Figure \\* ARABIC 4 Single image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30*
+*Figure  SEQ Figure \\*  4 Single image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30*
 
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.011.png)
 
-*Figure  SEQ Figure \\* ARABIC 5 Multi-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30*
+*Figure  SEQ Figure \\*  5 Multi-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.012.png)
 
-*Figure  SEQ Figure \\* ARABIC 6 CNN: Alexnet - Dataset split: (80:10:10) - learning rate: 0.1 – epoch: 20*
+*Figure  SEQ Figure \\*  6 CNN: Alexnet - Dataset split: (80:10:10) - learning rate: 0.1 – epoch: 20*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.013.png)
 
-*Figure  SEQ Figure \\* ARABIC 7 CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 90*
+*Figure  SEQ Figure \\*  7 CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 90*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.014.png)
 
-*Figure  SEQ Figure \\* ARABIC 8 CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
+*Figure  SEQ Figure \\*  8 CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.015.png)
 
-*Figure  SEQ Figure \\* ARABIC 9 Single-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
+*Figure  SEQ Figure \\*  9 Single-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.016.png)
 
-*Figure  SEQ Figure \\* ARABIC 10 Multi-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
+*Figure  SEQ Figure \\*  10 Multi-image classification CNN: AlexNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.017.png)
 
-*Figure  SEQ Figure \\* ARABIC 11 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30* 
+*Figure  SEQ Figure \\*  11 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.01 – epoch: 30* 
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.018.png)
 
-*Figure  SEQ Figure \\* ARABIC 12 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.1 – epoch: 20*
+*Figure  SEQ Figure \\*  12 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.1 – epoch: 20*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.019.png)
 
-*Figure  SEQ Figure \\* ARABIC 13 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 90*
+*Figure  SEQ Figure \\*  13 CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 90*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.020.png)
 
-*Figure  SEQ Figure \\* ARABIC 14 Singe-image classification CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  14 Singe-image classification CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.021.png)
 
-*Figure  SEQ Figure \\* ARABIC 15 Multi-image classification (top 5) CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  15 Multi-image classification (top 5) CNN: GoogLeNet - Dataset split: (80:10:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.022.png)
 
-*Figure  SEQ Figure \\* ARABIC 16 CNN: AlexNet - Dataset split: (60:30:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  16 CNN: AlexNet - Dataset split: (60:30:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.023.png)
 
-*Figure  SEQ Figure \\* ARABIC 17 CNN: AlexNet - Dataset split: (90:9:1) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  17 CNN: AlexNet - Dataset split: (90:9:1) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 ![](Aspose.Words.8ca5f9ec-ee79-4703-a8a7-c06fe96ca901.024.png)
 
-*Figure  SEQ Figure \\* ARABIC 18 CNN: GoogLeNet - Dataset split: (60:30:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
+*Figure  SEQ Figure \\*  18 CNN: GoogLeNet - Dataset split: (60:30:10) - learning rate: 0.001 – epoch: 200 - batch size: 26*
 
 
 
